@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 '''
-    Generates .tgz archive from `web_static`.
+    Gens .tgz archive frm `web_static`.
 '''
 from fabric.api import local, hide
 from datetime import datetime
