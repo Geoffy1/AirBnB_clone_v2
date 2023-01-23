@@ -7,7 +7,7 @@ mkdir -p /data/web_static/
 mkdir -p /data/web_static/releases/
 mkdir -p /data/web_static/shared/
 mkdir -p /data/web_static/releases/test/
-echo "Emediong Francis" > /data/web_static/releases/test/index.html
+echo "Geoffrey Simiyu" > /data/web_static/releases/test/index.html
 rm -rf /data/web_static/current
 ln -sf /data/web_static/releases/test /data/web_static/current
 chown -R ubuntu:ubuntu /data/
