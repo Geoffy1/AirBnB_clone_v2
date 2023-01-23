@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 '''
-    Full deployment of `web_static` to servers.
+    Full deployment of to servers.
 '''
 
 from fabric.api import *
